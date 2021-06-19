@@ -1,0 +1,62 @@
+C:\Users\guasti\AppData\Local\Temporary Projects\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.exe
+C:\Users\guasti\AppData\Local\Temporary Projects\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.pdb
+C:\Users\guasti\AppData\Local\Temporary Projects\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.Form1.resources
+C:\Users\guasti\AppData\Local\Temporary Projects\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.Properties.Resources.resources
+C:\Users\guasti\AppData\Local\Temporary Projects\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.csproj.GenerateResource.Cache
+C:\Users\guasti\AppData\Local\Temporary Projects\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.exe
+C:\Users\guasti\AppData\Local\Temporary Projects\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.pdb
+C:\Users\guasti\documents\visual studio 2010\Projects\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.exe
+C:\Users\guasti\documents\visual studio 2010\Projects\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.pdb
+C:\Users\guasti\documents\visual studio 2010\Projects\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.exe
+C:\Users\guasti\documents\visual studio 2010\Projects\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.pdb
+C:\Users\guasti\documents\visual studio 2010\Projects\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.principal.resources
+C:\Users\guasti\documents\visual studio 2010\Projects\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.Properties.Resources.resources
+C:\Users\guasti\documents\visual studio 2010\Projects\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.csproj.GenerateResource.Cache
+C:\Users\guasti\documents\visual studio 2010\Projects\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.Consulta.resources
+C:\Users\personal computer\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.exe.config
+C:\Users\personal computer\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.exe
+C:\Users\personal computer\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.pdb
+C:\Users\personal computer\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\personal computer\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.Consulta.resources
+C:\Users\personal computer\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.principal.resources
+C:\Users\personal computer\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.Properties.Resources.resources
+C:\Users\personal computer\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\personal computer\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\personal computer\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.exe
+C:\Users\personal computer\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.pdb
+C:\Users\guasti\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.exe.config
+C:\Users\guasti\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.exe
+C:\Users\guasti\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.pdb
+C:\Users\guasti\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.exe
+C:\Users\guasti\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.pdb
+C:\Users\guasti\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.csprojResolveAssemblyReference.cache
+C:\Users\guasti\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.Consulta.resources
+C:\Users\guasti\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.principal.resources
+C:\Users\guasti\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.Properties.Resources.resources
+C:\Users\guasti\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.csproj.GenerateResource.Cache
+C:\Users\personal computer\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\ExcelLibrary.dll
+C:\Users\personal computer\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\personal computer\Desktop\GQ\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\office.dll
+D:\TRABALHO\PROJETO\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.exe.config
+D:\TRABALHO\PROJETO\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.exe
+D:\TRABALHO\PROJETO\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.pdb
+D:\TRABALHO\PROJETO\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\ExcelLibrary.dll
+D:\TRABALHO\PROJETO\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\TRABALHO\PROJETO\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\office.dll
+D:\TRABALHO\PROJETO\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.Consulta.resources
+D:\TRABALHO\PROJETO\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.principal.resources
+D:\TRABALHO\PROJETO\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.Properties.Resources.resources
+D:\TRABALHO\PROJETO\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.exe
+D:\TRABALHO\PROJETO\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.pdb
+D:\TRABALHO\PROJETO\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.csprojResolveAssemblyReference.cache
+D:\TRABALHO\PROJETO\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.csproj.GenerateResource.Cache
+E:\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.exe.config
+E:\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.exe
+E:\Gerador de Questões Alternativas\Gerador de Questões Alternativas\bin\Debug\Gerador de Questões Alternativas.pdb
+E:\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.csprojResolveAssemblyReference.cache
+E:\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.Consulta.resources
+E:\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.principal.resources
+E:\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador_de_Questões_Alternativas.Properties.Resources.resources
+E:\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.csproj.GenerateResource.Cache
+E:\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.exe
+E:\Gerador de Questões Alternativas\Gerador de Questões Alternativas\obj\x86\Debug\Gerador de Questões Alternativas.pdb
